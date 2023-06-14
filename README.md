@@ -21,9 +21,11 @@ pip install -r requirements.txt
 ### 0. node ip 주소 설정
 
 **def save_ip():** 에서 return 값을 python 코드를 실행하는 서버의 ip 주소를 입력합니다.
+
 <img width="327" alt="KakaoTalk_Photo_2023-06-14-15-46-02" src="https://github.com/chanj99/p2p-KademliaDHT/assets/82193352/71352598-0ff5-4a43-9b61-f95f9bec4a6d">
 
 **async def run():** 부분에서 kademlia DHT에 참여할 주소와 포트 번호를 입력합니다. 
+
 <img width="259" alt="KakaoTalk_Photo_2023-06-14-15-45-52" src="https://github.com/chanj99/p2p-KademliaDHT/assets/82193352/f3fb9828-f64d-4166-8713-8f5862b0ca23">
 
 
