@@ -53,15 +53,15 @@ python p2p_node_v1.py
 자신의 파일을 업로드하고, 다른 client들의 파일을 다운받습니다.
 
 #### client1 🖥️
-![스크린샷 2023-06-14 15 32 16](https://github.com/chanj99/p2p-KademliaDHT/assets/82193352/41689808-b21b-4e8d-8641-dceca2a4e028)
+<img src="https://github.com/chanj99/p2p-KademliaDHT/assets/82193352/41689808-b21b-4e8d-8641-dceca2a4e028" width = "60%" height = "60%">
 
 
 #### client2 🖥️
-![스크린샷 2023-06-14 15 32 23](https://github.com/chanj99/p2p-KademliaDHT/assets/82193352/64101953-ea0f-4621-8d5a-35bcf569827b)
+<img src="https://github.com/chanj99/p2p-KademliaDHT/assets/82193352/64101953-ea0f-4621-8d5a-35bcf569827b" width = "60%" height = "60%">
 
 
 #### client3 🖥️
-![스크린샷 2023-06-14 15 32 38](https://github.com/chanj99/p2p-KademliaDHT/assets/82193352/bda02879-3c8b-4d45-8552-8f5d8d292913)
+<img src="https://github.com/chanj99/p2p-KademliaDHT/assets/82193352/bda02879-3c8b-4d45-8552-8f5d8d292913" width = "60%" height = "60%">
 
 
 ## Release
