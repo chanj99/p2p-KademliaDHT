@@ -1,4 +1,4 @@
-# Kademlia DHT를 이용한 P2P 파일 공유 시스템
+# 💾 Kademlia DHT를 이용한 P2P 파일 공유 시스템
 
 * [Requirements](#requirements)
 * [How to use](#how-to-use)
