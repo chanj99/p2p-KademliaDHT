@@ -3,6 +3,7 @@
 * [Requirements](#requirements)
 * [How to use](#how-to-use)
 * [Demo](#Demo)
+* [Release](#Release)
 
 **P2P 네트워크**란, 중앙 집중화된 서버 없이 Peer나 Node 간 직접 통신을 통하여 데이터를 공유, 분산하는 시스템입니다. 해당 프로젝트에서는 [**Kademlia**](https://en.wikipedia.org/wiki/Kademlia)를 사용하였는데, 이는 P2P 컴퓨터 네트워크를 위해, DHT(Distributed Hash Tables)를 구축하는 프로토콜입니다.
 
@@ -21,3 +22,8 @@ pip install -r requirements.txt
 
 
 ## Demo
+
+
+## Release
+
+
